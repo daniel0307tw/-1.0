@@ -1,0 +1,18 @@
+{
+  "collections": {
+    "users": {
+      "documents": {
+        "{{username}}": {
+          "fields": {
+            "username": { "type": "string" },
+            "hourlyRate": { "type": "number" },
+            "isClockedIn": { "type": "boolean" },
+            "startTime": { "type": "timestamp", "nullable": true },
+            "accumulatedMs": { "type": "number" },
+            "lastUpdated": { "type": "timestamp" }
+          }
+        }
+      }
+    }
+  }
+}

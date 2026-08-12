@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#FFFBF2"/>
+  <g filter="drop-shadow(0px 4px 12px rgba(74,59,50,0.08))">
+    <!-- Bear Head & Ears -->
+    <path
+      d="M 180 150 C 130 110, 100 180, 160 210 C 120 280, 160 400, 256 400 C 352 400, 392 280, 352 210 C 412 180, 382 110, 332 150 C 290 130, 222 130, 180 150 Z"
+      fill="#FFFFFF"
+      stroke="#1A1A1A"
+      stroke-width="16"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <!-- Left Ear inner -->
+    <path d="M 150 170 C 120 130, 160 100, 190 150" fill="none" stroke="#1A1A1A" stroke-width="14" stroke-linecap="round"/>
+    <!-- Right Ear inner -->
+    <path d="M 362 170 C 392 130, 352 100, 322 150" fill="none" stroke="#1A1A1A" stroke-width="14" stroke-linecap="round"/>
+    <!-- Eyes -->
+    <circle cx="210" cy="225" r="12" fill="#1A1A1A" />
+    <circle cx="302" cy="225" r="12" fill="#1A1A1A" />
+    <!-- Nose -->
+    <ellipse cx="256" cy="245" rx="14" ry="10" fill="#1A1A1A" />
+    <!-- Happy Open Mouth -->
+    <path d="M 230 255 C 230 295, 282 295, 282 255 Z" fill="#B8323D" stroke="#1A1A1A" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 242 272 C 250 282, 262 282, 270 272" fill="none" stroke="#FF8DA1" stroke-width="8" stroke-linecap="round"/>
+    <!-- Blush -->
+    <ellipse cx="170" cy="260" rx="18" ry="12" fill="#FFD1DC" opacity="0.8" />
+    <ellipse cx="342" cy="260" rx="18" ry="12" fill="#FFD1DC" opacity="0.8" />
+  </g>
+</svg>

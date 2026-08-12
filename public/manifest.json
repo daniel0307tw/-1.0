@@ -1,0 +1,18 @@
+{
+  "short_name": "給我錢1.0",
+  "name": "給我錢1.0",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFBF2",
+  "theme_color": "#FFFBF2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "韓系可愛風格的薪資計算與打卡 APP"
+}
